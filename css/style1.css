@@ -1,0 +1,26 @@
+.parent{
+  background-color: aqua;
+}
+div#one{
+font-size: 40px;
+background-color: blueviolet;
+top: 20px;
+left: 30px; 
+position: absolute;
+z-index: 2;
+}
+div#two{
+  font-size: 40px;
+  background-color: chocolate;
+  z-index: 3;
+  position: relative;
+}
+div#three{
+  font-size: 40px;
+  background-color: darksalmon;
+}
+ul li{
+  display: none;
+  height: 100px;
+  width: 100px; 
+}

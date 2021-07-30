@@ -1,0 +1,44 @@
+body{background-image:url(../images/DSCF0607.JPG);
+  background-size:cover;
+}
+h1{
+  color:olive;
+  text-align: center;
+  font-style:oblique;
+  font-size: 60px;
+  word-spacing: 20px;
+}
+h3{
+  text-align: center;
+  font-size: 20px;
+  text-shadow: 10px 2px 4px;
+}
+p{
+  text-indent: 10px;
+  line-height: 1.6;
+}
+p#par1{
+  text-decoration: underl
+  ine;
+  font-family: fantasy;
+}
+p#par2{
+  font-family: fantasy;
+  color: brown;
+  border: solid 2px black;
+  padding: 20px;
+  height: 70px;
+  overflow: scroll;
+}
+p#par3{
+  color: brown;
+  font-family: fantasy;
+}
+ul{
+  color: antiquewhite;
+}
+table{
+  color: antiquewhite;
+  empty-cells: hide;
+  border-collapse: collapse;
+}

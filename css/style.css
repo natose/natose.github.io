@@ -1,0 +1,54 @@
+body{
+   background-image: url(../images/background\ image.jpg);
+  /* background-color: brown; */
+  background-repeat: no-repeat;
+  background-size: 100px 200px;
+  /* background-position: right bottom; */
+  height: 1000px;
+  background-attachment: scroll;
+}
+h1.header1{
+  color:chocolate;
+}
+img{
+  float: right;
+}
+p#par1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 70%;
+  /* border: solid 5px black;
+  padding: 20px;
+  margin: 50px 100px 20px 120px;
+  width: 200px;
+  height: 200px; 
+  overflow: scroll; */
+  clear: right;
+
+}
+p#par2{
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-transform: uppercase ;
+  text-decoration: line-through overline underline;
+  text-align: left;
+  text-shadow: 5px 6px 4px black;
+  text-indent: 60px;
+  letter-spacing: 5px;
+  word-spacing: 30px;
+}
+ul li{
+  font-size: 30px;
+  list-style: inside square;
+  /* border: solid 3px black; */
+}
+.numbers li{
+  color:coral;
+}
+ol li{
+  list-style-type: lower-roman;
+}
+table{
+  empty-cells: hide;
+  border-collapse: collapse;
+}
